@@ -4,5 +4,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Mokshit-13/Leetcode/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/Mokshit-13/Leetcode/tree/master/0520-detect-capital) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Mokshit-13/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
